@@ -3,14 +3,16 @@
 
 [AAISS2020](http://aaiss.ceit.aut.ac.ir/)
 
-<b>This workshop has two presenters and it is consists of 2 parts.  
-The first part is held by Mr. Rahmdel and its syllabus is as follows:  
+This workshop had two instructors with two level.  
+
+The first part (basic) was taught by Mohammad Rahmdel:  
 - Basic Introduction to Generative Adversarial networks- GAN  
 - Implementation of the main article of Generative Adversarial networks from A to Z with tensorflow2 and step-by-step explanations.  
 - Learn to model with several different datasets and display outputs.  
 - Further explanations, tips and review of the training process (review of outputs, cost function, Convergence and ...)  
 - Preliminary review of other applications of Generative Adversarial Networks  
-and the next part is held by Mr.Khazaie and its syllabus is as follows:  
+
+and the second part (advance) was taught by Vahid Reza Khazaie:  
 - GAN
 - DCGAN
 - Context Encoders
